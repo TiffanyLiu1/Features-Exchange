@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Python version: 3.8
-# C:\Users\Pinky\PycharmProjects\FedAvg
+# C:\Users\Pinky\PycharmProjects\FedAvg 
 
 import matplotlib
 matplotlib.use('Agg')
